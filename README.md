@@ -12,13 +12,15 @@
 
 ### Ответ
 
-#### 1. ![Deployment]()
+#### 1. ![Deployment](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/blob/e9f961681ccd437bbe0ac6c97c017a1c6c657807/deploy-volume.yaml)
 
 #### Контейнер bysubox
 
+![busybox](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/801c779b-689e-4b98-b0e2-a8a2e57f3b02)
 
 #### Контейнер multitool
 
+![multitool](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/21d7051a-5216-4b0d-95a6-c724fbad4373)
 
 
 ------
