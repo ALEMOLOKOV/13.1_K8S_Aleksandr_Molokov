@@ -36,7 +36,7 @@
 
 ### Ответ
 
-#### ![DaemonSet]()
+#### ![DaemonSet](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/blob/76f99df00385450758fbfbe61b612dd3bf234b2d/daemonSet.yaml)
 
 #### Статус daemonSet и Pod
 
