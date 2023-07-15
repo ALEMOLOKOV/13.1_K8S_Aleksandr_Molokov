@@ -35,3 +35,26 @@
 4. Предоставить манифесты Deployment, а также скриншоты или вывод команды из п. 2.
 
 ### Ответ
+
+#### ![DaemonSet]()
+
+#### Статус daemonSet и Pod
+
+![get ds and pods](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/0e090145-4afe-44a8-90ba-ecee86f40c06)
+
+#### Проверка доступности файлов кластера
+
+#### Подключение к поду
+
+![подключение к поду](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/0cdc4f4d-1a47-4a17-9a13-e1d6530319dd)
+
+#### Сравнение диреткорий кластера /var/log  и volume пода multitool
+
+![var - logs](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/72ac3cc4-ffa3-4321-a5c4-dfb3c4ef9a8f)
+
+#### вывод команды cat syslog из пода multitool
+
+![multitool cat syslog](https://github.com/ALEMOLOKOV/13.1_K8S_Aleksandr_Molokov/assets/109212419/d610c238-117e-4bc1-a80a-eece79e98331)
+
+
+
